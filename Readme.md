@@ -12,7 +12,7 @@ This template creates the following resources:
 
 You can deploy these samples directly through the Azure Portal by clicking the button below or by using the deploy.ps1 script supplied in the root of this repo.
 
-<a href=https://portal.azure.com/#@bittitan.com/resource/providers/microsoft.gallery/myareas/c3747c31-d73b-4cc4-980f-d4cb239e2918/galleryitems/uw2psql2016_template target="_blank">
+<a href=https://portal.azure.com/#@bittitan.com/resource/providers/microsoft.gallery/myareas/c3747c31-d73b-4cc4-980f-d4cb239e2918/galleryitems/sql2016_aog_cluster_20disk_witness target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
